@@ -1,0 +1,9 @@
+v 2.0.0.0
+d 'fastreshape': the upgrade code of reshape
+d 'readFile': read excel or csv data into stata
+d 'readWind': read the data donlowed from the wind to the stata in a cleaning format
+
+
+p fastreshape
+p readFile
+p readWind
